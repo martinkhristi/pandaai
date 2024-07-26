@@ -6,6 +6,7 @@ from dotenv import load_dotenv
 from langchain_groq.chat_models import ChatGroq
 from pandasai.llm.openai import OpenAI
 from pandasai import SmartDataframe
+import seaborn as sns
 
 # Load environment variables
 load_dotenv()

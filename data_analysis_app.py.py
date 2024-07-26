@@ -8,6 +8,8 @@ from pandasai.llm.openai import OpenAI
 from pandasai import SmartDataframe
 import seaborn as sns
 
+
+
 # Load environment variables
 load_dotenv()
 
